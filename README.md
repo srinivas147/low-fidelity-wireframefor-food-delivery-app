@@ -19,3 +19,5 @@ Provides quick access to proceed to checkout or modify the order.
 4. Order Screen
 Displays “My Orders” with active and previous order status.
 Offers order tracking and estimated delivery
+
+**Figma Design Link**[view on Figma](https://www.figma.com/design/978rMUfIo7lE4VFrNzQpNc/Untitled?node-id=16-2&t=XXiJKAkDVlTdrWO0-1)
