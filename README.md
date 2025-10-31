@@ -1,4 +1,4 @@
-# low-fidelity-wireframefor-food-delivery-app
+# Task-2-low-fidelity-wireframefor-food-delivery-app
 Project Overview
 
 This project focuses on creating low-fidelity wireframes for a food delivery mobile application.
